@@ -1,0 +1,65 @@
+C:\Users\student\source\repos\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\student\source\repos\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\student\source\repos\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\student\source\repos\Lab\Lab\bin\Debug\CustomerData.dll
+C:\Users\student\source\repos\Lab\Lab\bin\Debug\CustomerData.pdb
+C:\Users\student\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+D:\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+D:\Lab\Lab\obj\Debug\Lab.Form1.resources
+D:\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+D:\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+D:\Lab\Lab\bin\Debug\Lab.exe.config
+D:\Lab\Lab\bin\Debug\Lab.exe
+D:\Lab\Lab\bin\Debug\Lab.pdb
+D:\Lab\Lab\bin\Debug\CustomerData.dll
+D:\Lab\Lab\bin\Debug\CustomerData.pdb
+D:\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+D:\Lab\Lab\obj\Debug\Lab.exe
+D:\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\ariel\source\repos\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\ariel\source\repos\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\ariel\source\repos\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\ariel\source\repos\Lab\Lab\bin\Debug\CustomerData.dll
+C:\Users\ariel\source\repos\Lab\Lab\bin\Debug\CustomerData.pdb
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\ariel\source\repos\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+D:\Lab v2\Lab\Lab\bin\Debug\Lab.exe.config
+D:\Lab v2\Lab\Lab\bin\Debug\Lab.exe
+D:\Lab v2\Lab\Lab\bin\Debug\Lab.pdb
+D:\Lab v2\Lab\Lab\bin\Debug\CustomerData.dll
+D:\Lab v2\Lab\Lab\bin\Debug\CustomerData.pdb
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.Form1.resources
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.exe
+D:\Lab v2\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\bin\Debug\CustomerData.dll
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\bin\Debug\CustomerData.pdb
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.csprojAssemblyReference.cache
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.csproj.CopyComplete
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\student\Desktop\ArielContreras_CPRG200_Lab2\Lab\Lab\obj\Debug\Lab.pdb

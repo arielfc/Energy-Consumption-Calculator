@@ -1,0 +1,17 @@
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.deps.json
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.json
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.runtimeconfig.dev.json
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.dll
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\UnitTest.pdb
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\CustomerData.dll
+D:\Lab\UnitTest\bin\Debug\netcoreapp2.1\CustomerData.pdb
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csprojAssemblyReference.cache
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CoreCompileInputs.cache
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfoInputs.cache
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.AssemblyInfo.cs
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.csproj.CopyComplete
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.dll
+D:\Lab\UnitTest\obj\Debug\netcoreapp2.1\UnitTest.pdb

@@ -1,0 +1,24 @@
+C:\Users\student\source\repos\Lab\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\student\source\repos\Lab\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\student\source\repos\Lab\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Lab\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Lab\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\student\source\repos\Lab\CustomerData\obj\Debug\CustomerData.pdb
+D:\Lab\CustomerData\bin\Debug\CustomerData.dll
+D:\Lab\CustomerData\bin\Debug\CustomerData.pdb
+D:\Lab\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+D:\Lab\CustomerData\obj\Debug\CustomerData.dll
+D:\Lab\CustomerData\obj\Debug\CustomerData.pdb
+D:\Lab\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\Lab\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\ariel\source\repos\Lab\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\ariel\source\repos\Lab\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\Lab\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Lab\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\ariel\source\repos\Lab\CustomerData\obj\Debug\CustomerData.pdb
+D:\Lab v2\Lab\CustomerData\bin\Debug\CustomerData.dll
+D:\Lab v2\Lab\CustomerData\bin\Debug\CustomerData.pdb
+D:\Lab v2\Lab\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+D:\Lab v2\Lab\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+D:\Lab v2\Lab\CustomerData\obj\Debug\CustomerData.dll
+D:\Lab v2\Lab\CustomerData\obj\Debug\CustomerData.pdb
